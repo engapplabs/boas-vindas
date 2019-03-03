@@ -1,6 +1,6 @@
 # **Bem-vindo**
 
-Seja bem vindo ao GitHub da EngApp! Aqui você irá encontrar tudo o que precisa para iniciar seu desenvolvimento na nossa stack (Flutter/Dart) além de melhorar e aprimorar seu conhecimento na ferramenta.
+Seja bem vindo ao GitHub da EngApp!
 
 # **Desenvolvimento**
 Se você chegou nesse repositório e por que voc procura melhorar seu código e seu nível como programador na nossa stack. Você veio ao lugar, aqui você irá ter todo o material necessário para criar os melhores codigos possiveis.
